@@ -13,7 +13,4 @@ Capturas de pantalla proyecto web
 [![4.png](https://i.postimg.cc/RVN8L6jc/4.png)](https://postimg.cc/HV1BpxWx)
 
 
-[![5.png](https://i.postimg.cc/DZNQvZBT/5.png)](https://postimg.cc/XGwBxnRH)
-
-
 [![6.png](https://i.postimg.cc/NFTdZmYV/6.png)](https://postimg.cc/V0f9CSJB)
